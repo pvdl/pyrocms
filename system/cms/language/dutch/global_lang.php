@@ -13,8 +13,6 @@ $lang['global:slug'] 					= 'Slug';
 
 $lang['global:dialog:delete_message'] 	= 'Weet u zeker dat u dit wilt verwijderen? Dit kan niet ongedaan worden gemaakt.';
 $lang['global:dialog:confirm'] 			= 'Bevestigen';
-$lang['global:dialog:delete_message'] 	= 'Are you sure you want to delete this? It cannot be undone.';
-$lang['global:dialog:confirm'] 			= 'Confirm';
 
 $lang['global:yes'] 					= 'Ja';
 $lang['global:no'] 						= 'Nee';
